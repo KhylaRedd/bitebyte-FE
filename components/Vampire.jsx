@@ -1,8 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-function Vampire() {
- const [vamp,setVamp] = useState([]) ;
+function Vampire({vamp, id}) {
 
   return (
     <div className='vampireCard'>

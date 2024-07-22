@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import Vampire from "./Vampire";
 
 const API = import.meta.env.VITE_BASE_URL;
@@ -6,7 +6,7 @@ const API = import.meta.env.VITE_BASE_URL;
 function Vamps() {
     const [vamps, setVamps] = useState([]);
 
-    console.log(API)
+    // console.log(API)
     useEffect(() => {
         fetch(`${API}/vampires`)
         .then(res => res.json())
