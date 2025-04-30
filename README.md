@@ -137,4 +137,4 @@ Thank you for contributing!
 
 ## Contact Creators
 
-- LinkedIn: [Nadia Matos](https://www.linkedin.com/in/nad-mat/) | [Khyla Redd](https://www.linkedin.com/in/khyla-redd) | [Diamond Brown](https://www.linkedin.com/in/diamond-brown-8305642a1/)
+- LinkedIn: [Nadia Matos](https://www.linkedin.com/in/nad-mat/) | [Khyla Redd](https://www.linkedin.com/in/khyla-redd-5887a6321/) | [Diamond Brown](https://www.linkedin.com/in/diamond-brown-8305642a1/)
